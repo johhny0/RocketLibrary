@@ -1,0 +1,6 @@
+@LivrariaRocketApi_HostAddress = http://localhost:5070
+
+GET {{LivrariaRocketApi_HostAddress}}/books/
+Accept: application/json
+
+###
